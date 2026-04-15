@@ -117,10 +117,3 @@ Attach:
 <img width="1919" height="893" alt="Screenshot 2026-03-27 091014" src="https://github.com/user-attachments/assets/049a3c47-e473-4f51-8450-90e89c02abbf" />
 <img width="760" height="1600" alt="SNS" src="https://github.com/user-attachments/assets/0df0b9ae-c7d3-42a1-ad2b-4e09ef4d65f3" />
 
-
-
-👨‍💻 Author
-
-Anand Mahangade
-Cloud & DevOps Engineer
-AWS | Docker | Linux | Automation
