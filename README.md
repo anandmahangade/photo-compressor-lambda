@@ -111,8 +111,11 @@ Attach:
 4. SNS notification received
 
 ---
-
 ## 📊 Sample SNS Output
+<img width="1918" height="881" alt="Screenshot 2026-03-26 162205" src="https://github.com/user-attachments/assets/87ff736c-9fdc-4248-8520-462c254f97c2" />
+<img width="1907" height="893" alt="Screenshot 2026-03-26 162218" src="https://github.com/user-attachments/assets/995e6583-2bd4-49bf-a248-2df2ba0f348f" />
+<img width="1919" height="893" alt="Screenshot 2026-03-27 091014" src="https://github.com/user-attachments/assets/049a3c47-e473-4f51-8450-90e89c02abbf" />
+<img width="760" height="1600" alt="SNS" src="https://github.com/user-attachments/assets/0df0b9ae-c7d3-42a1-ad2b-4e09ef4d65f3" />
 
 ```json
 {
@@ -124,7 +127,6 @@ Attach:
   "savings_percent": 74.7
 }
 
-<img width="760" height="1600" alt="SNS" src="https://github.com/user-attachments/assets/0df0b9ae-c7d3-42a1-ad2b-4e09ef4d65f3" />
 
 👨‍💻 Author
 
