@@ -46,6 +46,7 @@ SNS Notification (Email / HTTP)
 
 ## 📦 Project Structure
 
+<img width="995" height="396" alt="Screenshot 2026-04-15 200032" src="https://github.com/user-attachments/assets/f0aa3123-e77c-4f21-9607-14622430ad59" />
 
 
 ---
