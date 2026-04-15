@@ -117,15 +117,6 @@ Attach:
 <img width="1919" height="893" alt="Screenshot 2026-03-27 091014" src="https://github.com/user-attachments/assets/049a3c47-e473-4f51-8450-90e89c02abbf" />
 <img width="760" height="1600" alt="SNS" src="https://github.com/user-attachments/assets/0df0b9ae-c7d3-42a1-ad2b-4e09ef4d65f3" />
 
-```json
-{
-  "status": "SUCCESS",
-  "original_file": "uploads/photo.jpg",
-  "compressed_file": "uploads/photo_compressed.jpg",
-  "original_size_kb": 2450.5,
-  "compressed_size_kb": 620.3,
-  "savings_percent": 74.7
-}
 
 
 👨‍💻 Author
